@@ -2572,7 +2572,7 @@ ul {
 /* line 2, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_banner.scss */
 .banner_part {
   position: relative;
-  background-image: url(../img/banner_bg.png);
+  background-image: url(../img/bbb.jpg);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: right;
@@ -2716,7 +2716,7 @@ ul {
 .live_stareams {
   position: relative;
   z-index: 99;
-  background: url(../img/live_stareams_bg.png);
+  background: url(../img/live_stareams_bg.png-);
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -2895,7 +2895,7 @@ ul {
 
 /* line 3, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_Latest_War.scss */
 .Latest_War .Latest_War_text {
-  background-image: url("../img/latest_war_img.png");
+  background-image: url("../img/IMG_2242.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2958,7 +2958,7 @@ ul {
 
 /* line 54, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_Latest_War.scss */
 .Latest_War .Latest_War_bg_1 {
-  background-image: url("../img/latest_war_img_1.png");
+  background-image: url("../img/koli.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
